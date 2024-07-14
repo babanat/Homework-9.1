@@ -1,4 +1,4 @@
-let company = {
+const company = {
     sales: [{name: 'John', salary: 1000}, {name: 'Alice', salary: 600 }],
     
     development: {
